@@ -8,4 +8,10 @@ public class GitTest {
         System.out.println("hello,git");
         System.out.println("hello,git");
     }
+
+    public  void aa(){
+        int i = 10;
+        i+=50;
+        System.out.println(i);
+    }
 }
